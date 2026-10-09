@@ -1,6 +1,6 @@
-# Ideas — day 281
+# Log — day 281
 
-- reviewed algorithms notes
-- cleaned up a script
-- next: read docs
-- seed: 9f724a1e
+- reviewed typescript notes
+- refactored a script
+- next: benchmark
+- seed: 2fbd8bda
